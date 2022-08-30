@@ -54,7 +54,7 @@
         public const int lunarShardMaxStock = 12;
 
         //Quickstep
-        public const float dashBarrierAmount = 0.2f;
+        public const float dashBarrierAmount = 0.15f;
 
         //Replenish
         public const float healRadius = 16f;
