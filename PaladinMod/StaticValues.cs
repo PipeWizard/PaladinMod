@@ -50,11 +50,11 @@
         public const float lightningSpearChargeTime = 1.25f;
 
         //Lunar Shards
-        public const float lunarShardDamageCoefficient = 0.75f;
+        public const float lunarShardDamageCoefficient = 1.1f;
         public const int lunarShardMaxStock = 12;
 
         //Quickstep
-        public const float dashBarrierAmount = 0.1f;
+        public const float dashBarrierAmount = 0.15f;
 
         //Replenish
         public const float healRadius = 16f;
@@ -112,7 +112,7 @@
         public const float cruelSunCycleInterval = 0.5f;
         public const float cruelSunOverheatDuration = 1f;
         public const int cruelSunMinimumStacksBeforeApplyingBurns = 2;
-        public const int cruelSunMaximumAllyStacks = 2;
+        public const int cruelSunMaximumAllyStacks = 0;
         public const float cruelSunBurnDamageCoefficient = 1.6f;
         public static float cruelSunAllyDamageMultiplier = 0.15f;
 
